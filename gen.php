@@ -6,4 +6,6 @@ if (){
     echo 'Not done yet';
 }
 
+$conn = $_POST['OKaya'];
+
 ?>
